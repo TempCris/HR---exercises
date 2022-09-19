@@ -1,3 +1,3 @@
-export const commitID = '28741dabf5f40136a2188705f4d0d22f9f1dd2be';
+export const commitID = '41e0393d38e1aa2eb39420e8b3932250abb5fb4e';
 
-export const commitMssg = 'estandarizado de Codigo';
+export const commitMssg = 'ejercicio 11';
